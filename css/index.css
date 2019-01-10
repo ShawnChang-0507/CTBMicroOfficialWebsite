@@ -26,6 +26,11 @@ footer > div > button{
     background-color: white;
 }
 
+article > div{
+    float: left;
+    height: auto;
+}
+
 article > div > img{
     width: 100%;
     height: auto;
