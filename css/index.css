@@ -1,0 +1,32 @@
+main{
+    width: 100%;
+    height: 86%;
+}
+
+article{
+    width: 100%;
+    height: 100%;
+}
+
+article > div{
+    float: left;
+}
+
+footer > div{
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+
+footer > div > button{
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background-color: white;
+}
+
+article > div > img{
+    width: 100%;
+    height: auto;
+}
