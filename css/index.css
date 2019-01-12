@@ -28,10 +28,50 @@ footer > div > button{
 
 article > div{
     float: left;
-    height: auto;
+    padding: 7px;
 }
 
 article > div > img{
     width: 100%;
     height: auto;
+    display: flex;
 }
+
+.row01{
+    margin-bottom: 7px;
+    padding: 0;
+}
+
+
+
+/* #list{
+    position: absolute;
+    -webkit-animation: 7s move infinite linear; 
+    width: 500%; 
+}
+#list img {
+    list-style: none; 
+    width: 20%; 
+    height: auto; 
+    text-align: center;
+    float: left;
+}
+@-webkit-keyframes move{
+    0% {
+          left: 0;
+    }
+    100% {
+          left: -500px;
+    }
+}
+@keyframes move {
+    0% {
+       left: 0;
+    }
+    100% {
+       left: -500px;
+    }
+}
+#page-content:hover #list {
+    -webkit-animation-play-state: paused; 动画暂停播放
+} */
