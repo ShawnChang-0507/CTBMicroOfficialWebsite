@@ -55,3 +55,36 @@ header img {
     height: 70%;
     margin-top: 2%;
 }
+
+footer>div {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+
+footer>div>button {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    bottom: 0;
+    background-color: white;
+}
+
+.home {
+    background-image: url(../images/home.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-y: 5px;
+    padding-top: 23px;
+}
+
+.phone {
+    background-image: url(../images/phone.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-y: 5px;
+    padding-top: 23px;
+}
