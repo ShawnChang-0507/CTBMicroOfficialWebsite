@@ -1,13 +1,3 @@
-main {
-    width: 100%;
-    height: 86%;
-}
-
-article {
-    width: 100%;
-    height: 100%;
-}
-
 article>div {
     float: left;
 }

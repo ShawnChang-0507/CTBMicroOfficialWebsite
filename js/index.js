@@ -78,7 +78,9 @@ function createSlider(){
         animateType: 'rotate',
         fixPage: false,
         initIndex: 0,
-        fillSeam: true
+        fillSeam: true,
+        // 每张图片停留时间
+        duration: 5000
     });
 }
 
