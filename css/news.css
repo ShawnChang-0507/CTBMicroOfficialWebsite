@@ -53,23 +53,15 @@
     overflow: hidden;
 }
 
-.abstract>div{
-    width: auto;
-    height: auto;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-}
-
 .abstract>div>*{
     float: right;
 }
 
-.abstract>big{
+.abstract>.big{
     width: 100%;
     font-size: 1.5em;
 }
 
-.abstract>small{
+.abstract>.small{
     color: rgb(190, 190, 190);
 }
